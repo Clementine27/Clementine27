@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Thu Ngo! 👋
 
+I am a CS & Maths student @Mount Holyoke College. I'm interested in building products for the public good, specifically, the healthcare industry. 
+
+I'm currently interested in full stack development, AI/ML 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clementine27)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Clementine27/Clementine27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
