@@ -1,4 +1,4 @@
-## Hi there, my name is Thu Ngo! 👋
+## Ahoy! My name is Thu Ngo! 👋
 
 :rabbit2: I am a Computer Science & Mathematics junior @Mount Holyoke College interested in building products for civic tech and biotech spaces.  
 
