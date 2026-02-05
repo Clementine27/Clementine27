@@ -1,14 +1,15 @@
 ## Hi there, my name is Thu Ngo! 👋
 
-I am a CS & Maths student @Mount Holyoke College. I'm interested in building products for the public good, specifically, the healthcare industry. 
+I am a CS & Maths junior @Mount Holyoke College interested in building products for civic tech and biotech industries.  
 
-I'm currently interested in full stack development, AI/ML 
+I'm currently exploring fullstack development and causal inference. 
 
-**Technologies I've worked with**
+Feel free to shoot me a message @ ngo224t@mtholyoke.edu! 
 
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Technologies I've worked with
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,css,html,react,flask,git,mysql,aws,r" />
+  </a>
+</p>
