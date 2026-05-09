@@ -1,8 +1,8 @@
 ## Ahoy! My name is Thu Ngo 👋
 
-:rabbit2: I am a junior @Mount Holyoke College interested in building products for civic tech and biotech spaces.  
+:rabbit2: I am a junior @Mount Holyoke College.  
 
-:hatching_chick: I'm currently exploring full-stack development and causal inference. 
+:hatching_chick: I'm currently exploring full-stack development, distributed systems, and causal inference. 
 
 :monkey: Feel free to shoot me a message @ ngo224t@mtholyoke.edu! 
 
