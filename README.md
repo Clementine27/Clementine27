@@ -2,7 +2,7 @@
 
 :rabbit2: I am a junior @Mount Holyoke College.  
 
-:hatching_chick: I'm currently exploring full-stack development, distributed systems, and causal inference. 
+:hatching_chick: I'm currently interested in full-stack development, distributed systems, and causal inference. 
 
 :monkey: Feel free to shoot me a message @ ngo224t@mtholyoke.edu! 
 
